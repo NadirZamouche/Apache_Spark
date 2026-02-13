@@ -1,4 +1,4 @@
-# PySpark Tutorial Project <img src="https://go-skill-icons.vercel.app/api/icons?i=spark" height="30"/>
+# Apache Spark Tutorial Project <img src="https://go-skill-icons.vercel.app/api/icons?i=spark" height="30"/>
 
 This repository contains my practice and implementation of the concepts learned from the PySpark beginner tutorial:
 
